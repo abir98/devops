@@ -17,7 +17,7 @@ function App() {
   }
   return (
     <>
-      <h1> I am {userName} a student </h1>
+      <h1> I am {userName} a student in tekup </h1>
     </>
 
   );
